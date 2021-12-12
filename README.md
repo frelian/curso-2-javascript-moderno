@@ -2,3 +2,4 @@
 
 * Class 1: Destructuring (Matriz, Strings, objects, function params)
 * Class 2: Modules, using lodash package
+* Class 3: Spread and Rest (How to copy an object/array without reference)
