@@ -6,4 +6,6 @@
 * Class 4: Classes in JS
 * Class 5: Promises
 * Class 6: Fetch API
-* Class 7: JS asynchronous con Async / Await
+* Class 7: JS asynchronous with Async / Await
+* Class 8: New methods and options for objects
+* Class 9: for...of
