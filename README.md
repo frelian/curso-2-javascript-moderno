@@ -9,3 +9,4 @@
 * Class 7: JS asynchronous with Async / Await
 * Class 8: New methods and options for objects
 * Class 9: for...of
+* Class 10: New methods for arrays
